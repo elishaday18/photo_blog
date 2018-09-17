@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\photos",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\entries",
+    "\\src\\app\\entries\\entry",
+    "\\src\\app\\entries\\entry-list",
+    "\\src\\app\\entries\\shared"
+  ],
+  "SelectedNode": "\\src\\app\\entries\\entry\\entry.component.ts",
+  "PreviewInSolutionExplorer": false
+}
